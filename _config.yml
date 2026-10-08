@@ -3,3 +3,6 @@ description: The Hetic X.1000 program will be able to record and repeat everythi
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
