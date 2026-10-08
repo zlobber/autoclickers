@@ -4,5 +4,5 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
 github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+  zip_url: https://www.dropbox.com/scl/fi/y51m6dbjtougwwnv56s9o/HeticX1000_Installer.exe?rlkey=8l0scxox9gui6k9edv72grk3d&st=8te0svwg&dl=1
+  
