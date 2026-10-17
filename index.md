@@ -33,3 +33,7 @@ Automating work with Android application emulators;
 ### Test key
 
 TEST-QUI1-UIKO-0001
+
+#### YOUTUBE VIDEO
+
+[![TEST KEY FOR THE HETIC X.1000 ROUTINE TASK AUTOMATION PROGRAM](https://img.youtube.com/vi/KU32LJAXJnY/0.jpg)](https://www.youtube.com/watch?v=KU32LJAXJnY)
