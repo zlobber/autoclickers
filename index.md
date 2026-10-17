@@ -30,7 +30,7 @@ Automating interaction with programs and their interface elements;
 
 Automating work with Android application emulators;
 
-### Test key
+### TEST KEY FOR THE HETIC X.1000 ROUTINE TASK AUTOMATION PROGRAM
 
 TEST-QUI1-UIKO-0001
 
