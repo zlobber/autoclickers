@@ -8,6 +8,7 @@ layout: default
 
 [Official website](https://heticx.ru/)
 
+![Hetic X.1000 (BURUNDUKPRO)](https://heticx.ru/images/defenition/456.png)
 
 ## The Hetic X.1000 program will be able to record and repeat everything you do on the computer manually.
 
