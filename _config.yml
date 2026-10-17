@@ -1,16 +1,7 @@
 title: Hetic X.1000 is a program for automating routine tasks.
 description: The Hetic X.1000 program will be able to record and repeat everything you do on the computer manually.
 show_downloads: false
-google_analytics:
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-G3EC224FG7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-G3EC224FG7');
-</script>
+google_analytics: G-G3EC224FG7
 theme: jekyll-theme-architect
 github:
   zip_url: https://www.dropbox.com/scl/fi/y51m6dbjtougwwnv56s9o/HeticX1000_Installer.exe?rlkey=8l0scxox9gui6k9edv72grk3d&st=8te0svwg&dl=1
